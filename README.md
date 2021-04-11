@@ -1,7 +1,5 @@
-# SPDX License Fetcher
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.
 
-A Dart-based package that fetches SPDX licenses based on the license identifiers.
-
-This project is made as a part of the GSoC 2021 proposal for Dart Organization with the given problem statement.
-
-**The problem** : _Try writing a small sample program that can fetch one of the SPDX master files and print it to the terminal as a markdown._
+Created from templates made available by Stagehand under a BSD-style
+[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
