@@ -1,6 +1,4 @@
-#SPDX lICENSE FETCHER
-
-**SPDX License Fetcher**
+# SPDX lICENSE FETCHER
 
 A Dart-based package that fetches SPDX licenses based on the license identifiers.
 
