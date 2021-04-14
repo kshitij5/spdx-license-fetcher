@@ -9,7 +9,7 @@ void main(List<String> arguments) async {
   exitCode = 0;
 
   final parser = ArgParser()
-    ..addOption('license', abbr: 'l', defaultsTo: 'mit');
+    ..addOption('license', abbr: 'l', defaultsTo: 'MIT');
 
   final argResult = parser.parse(arguments);
 
